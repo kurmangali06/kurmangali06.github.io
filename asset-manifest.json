@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f1475f4f.css",
+    "main.js": "/static/js/main.e4cd9c22.js",
+    "static/media/potolok.jpg": "/static/media/potolok.80089c61c0a7a9abf866.jpg",
+    "index.html": "/index.html",
+    "main.f1475f4f.css.map": "/static/css/main.f1475f4f.css.map",
+    "main.e4cd9c22.js.map": "/static/js/main.e4cd9c22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1475f4f.css",
+    "static/js/main.e4cd9c22.js"
+  ]
+}
