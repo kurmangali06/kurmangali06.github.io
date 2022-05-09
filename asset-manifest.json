@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/shops-react/static/css/main.956e2f17.css",
-    "main.js": "/shops-react/static/js/main.e4cd9c22.js",
-    "static/media/potolok.jpg": "/shops-react/static/media/potolok.80089c61c0a7a9abf866.jpg",
-    "index.html": "/shops-react/index.html",
-    "main.956e2f17.css.map": "/shops-react/static/css/main.956e2f17.css.map",
-    "main.e4cd9c22.js.map": "/shops-react/static/js/main.e4cd9c22.js.map"
+    "main.css": "/static/css/main.f1475f4f.css",
+    "main.js": "/static/js/main.e4cd9c22.js",
+    "static/media/potolok.jpg": "/static/media/potolok.80089c61c0a7a9abf866.jpg",
+    "index.html": "/index.html",
+    "main.f1475f4f.css.map": "/static/css/main.f1475f4f.css.map",
+    "main.e4cd9c22.js.map": "/static/js/main.e4cd9c22.js.map"
   },
   "entrypoints": [
-    "static/css/main.956e2f17.css",
+    "static/css/main.f1475f4f.css",
     "static/js/main.e4cd9c22.js"
   ]
 }
