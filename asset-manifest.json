@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.80f1b11a.css",
-    "main.js": "/static/js/main.2dbbe316.js",
-    "static/media/potolok.jpg": "/static/media/potolok.80089c61c0a7a9abf866.jpg",
-    "index.html": "/index.html",
-    "main.80f1b11a.css.map": "/static/css/main.80f1b11a.css.map",
-    "main.2dbbe316.js.map": "/static/js/main.2dbbe316.js.map"
+    "main.css": "/kurmangali06.shops/static/css/main.acc46e5e.css",
+    "main.js": "/kurmangali06.shops/static/js/main.2dbbe316.js",
+    "static/media/potolok.jpg": "/kurmangali06.shops/static/media/potolok.80089c61c0a7a9abf866.jpg",
+    "index.html": "/kurmangali06.shops/index.html",
+    "main.acc46e5e.css.map": "/kurmangali06.shops/static/css/main.acc46e5e.css.map",
+    "main.2dbbe316.js.map": "/kurmangali06.shops/static/js/main.2dbbe316.js.map"
   },
   "entrypoints": [
-    "static/css/main.80f1b11a.css",
+    "static/css/main.acc46e5e.css",
     "static/js/main.2dbbe316.js"
   ]
 }
